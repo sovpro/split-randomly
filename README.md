@@ -1,6 +1,6 @@
 # Split Randomly
 
-Split a string randomly into a given or random count of sub-strings.
+Split a string randomly into a given or random count of substrings.
 
 [![Build status for Node.js 4.x and newer](https://github.com/sovpro/split-randomly/workflows/Node.js%204.x%20and%20newer%20/badge.svg?branch=master)](https://github.com/sovpro/split-randomly/commits/master)
 

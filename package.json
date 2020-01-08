@@ -1,7 +1,7 @@
 {
   "name": "@sovpro/split-randomly",
-  "version": "1.0.0",
-  "description": "Split a string randomly into a given number of sub-strings",
+  "version": "1.0.1",
+  "description": "Split a string randomly into a given or random count of substrings",
   "main": "split-randomly.js",
   "scripts": {
     "test": "istanbul cover test"
