@@ -1,0 +1,27 @@
+{
+  "name": "@sovpro/split-randomly",
+  "version": "1.0.0",
+  "description": "Split a string randomly into a given number of sub-strings",
+  "main": "split-randomly.js",
+  "scripts": {
+    "test": "istanbul cover test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sovpro/split-randomly.git"
+  },
+  "keywords": [
+    "split",
+    "string",
+    "random",
+    "substring"
+  ],
+  "author": "sovpro <its.so@outlook.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "devDependencies": {
+    "istanbul": "^0.4.5"
+  }
+}
