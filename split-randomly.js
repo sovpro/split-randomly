@@ -23,7 +23,7 @@ function splitRandomly (str_input, chunk_count) {
   }
 
   while (chunk_count > cut_actions++) {
-    max_cut_size = str_input.length - str_index - chunk_count + cut_actions
+    max_cut_size = (str_input.length - str_index) / (chunk_count - cut_actions)
 
     if (chunk_count === cut_actions) {
       curr_cut_size = max_cut_size
